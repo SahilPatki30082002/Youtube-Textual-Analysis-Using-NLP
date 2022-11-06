@@ -10,6 +10,7 @@ Performed Exploratory Data Analysis on data from kaggle [US latest trending vide
 - `kaggle`
 - `matplotlib`
 - `statsmodels`
+- `opendatasets` 
 
 ## Frameworks and libraries used:
 - `keras`
