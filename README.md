@@ -21,6 +21,6 @@ Performed Exploratory Data Analysis on data from kaggle [US latest trending vide
 
 ## Contributors
 - *Sahil Patki* - [@SahilPatki30082002](https://github.com/sahilpatki30082002)
-- *Maitri Shah*
-- *Hansin Patwa*
-- *Aaryan Pasha*
+- *Maitri Shah* - [@maitri01](https://github.com/maitri01)
+- *Hansin Patwa* - [@Hansin2901](https://github.com/Hansin2901)
+- *Aaryan Pasha* - [@Aaryan-30](https://github.com/Aaryan-30)
